@@ -1,0 +1,27 @@
+{
+  "name":"ws-test",
+  "version":"0.0.1",
+  "description":"WA web socket server for trying out the new 'fastest' WS Node lib.",
+  "main": "app.js",
+  "scripts": {
+    "test": "make"
+  },
+  "dependencies": {
+    "ws": "0.4.31"
+  },
+  "engines": {
+    "node": ">= 0.10.25",
+    "npm": "1.3.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaeawc/ws-test"
+  },
+  "keywords": [
+    "test",
+    "ws"
+  ],
+  "author": "Jason Pearson",
+  "license": "BSD"
+}
+
